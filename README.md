@@ -1,2 +1,4 @@
 # python-portfolio
-machine learning
+
+
+### APPLIED MACHINE LEARNING IN PYTHON 2.7.14
