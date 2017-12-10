@@ -13,11 +13,4 @@ print (question1("haha", "aha"))
 print (question1("haha", "a"))
 print (question1("udacity", "ad"))
 
-#Solution2
-
-#Solution3
-
-#Solution4
-
-#Solution5
 
